@@ -54,6 +54,6 @@ The **Procedural Generation Simulation** project draws inspiration from various 
 
 ## Contact
 
-For inquiries or feedback regarding the **Procedural Generation Simulation** project, please contact Rayan Derradji (Rennsen) at nr_derradji@esi.dz.
+For inquiries or feedback regarding the **Procedural Generation Simulation** project, please contact Rayan Derradji (Rennsen) at nr_derradji@esi.dz. For more of my work, check [here](https://ren-s-portfolio.web.app)
 
 ---
